@@ -1,2 +1,5 @@
 # Pizza_shop_project
-project related to see of growth and sales and revenue of pizza 
+Used of tools to Analysies the Dataset .
+--> ADVANCED Excel (Clean the error and missing figure (column and row )
+--> MySql (inserting records, deleting or updating records, and creating indexes and use join )
+--> PowerBi (visualization )
